@@ -1,5 +1,4 @@
 {
-    "cSpell.ignoreWords": [
-        "rocketline"
-    ]
+  "cSpell.ignoreWords": ["rocketline"],
+  "liveServer.settings.port": 5501
 }
